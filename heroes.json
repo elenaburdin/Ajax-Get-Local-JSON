@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Iron Man",
+        "alterEgo": "Anthony Edward Stark",
+        "species": "Human",
+        "placeOfOrigin": "Long Island, New York"
+    },
+    {
+        "id": 2,
+        "name": "Captain America",
+        "alterEgo": "Steven Rogers",
+        "species": "Human mutate",
+        "placeOfOrigin": "Manhattan, New York"
+    },
+    {
+        "id": 3,
+        "name": "Thor",
+        "alterEgo": "Thor Odinson",
+        "species": "Asgardian",
+        "placeOfOrigin": "Asgard"
+    },
+    {
+        "id": 4,
+        "name": "Loki",
+        "alterEgo": "Loki Odinson",
+        "species": "Jotunn (Frost Giant)/Asgardian",
+        "placeOfOrigin": "Jotunheim, Asgard"
+    }
+]
